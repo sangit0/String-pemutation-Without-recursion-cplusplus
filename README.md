@@ -1,1 +1,4 @@
-# String-pemutation-Without-recursion-cplusplus
+Description: String permutation without using recursion.
+Language: C++
+
+
