@@ -1,7 +1,8 @@
 //Sangit0
-//Git/sangit0
-#include<iostream>
+//snagit0@yahoo.com
+//Github.com/sangit0
 
+#include<iostream>
 using namespace std;
 
  string *word_holder;
